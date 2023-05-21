@@ -1,0 +1,102 @@
+{% extends 'base.html' %} {% load static %} {% block content %}
+<div class="container abt">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+	<h1 class="text-center">Meet Our Team</h1>
+	<br />
+	<br />
+	<br />
+	<div class="row">
+		<div class="col-md-2 col-sm-6 mx-auto">
+			<div class="team-member">
+				<img
+					class="rounded-circle img-fluid"
+					src="{% static 'about/aziz.png' %}"
+				/>
+
+				<h4 class="text-center" style="margin-top: 10px">Aziz Msaddek</h4>
+			</div>
+		</div>
+
+		<div class="col-md-2 col-sm-6 mx-auto">
+			<div class="team-member">
+				<img
+					class="rounded-circle img-fluid"
+					src="{% static 'about/haythem.jpg' %}"
+				/>
+				<h4 class="text-center" style="margin-top: 10px">
+					Haythem Ben Mechichi
+				</h4>
+			</div>
+		</div>
+		<div class="col-md-2 col-sm-6 mx-auto">
+			<div class="team-member">
+				<img
+					class="rounded-circle img-fluid"
+					src="{% static 'about/hedi.png' %}"
+				/>
+				<h4 class="text-center" style="margin-top: 10px">Hedi Azzouz</h4>
+			</div>
+		</div>
+		<div class="col-md-2 col-sm-6 mx-auto">
+			<div class="team-member">
+				<img
+					class="rounded-circle img-fluid"
+					src="{% static 'about/assia.png' %}"
+				/>
+				<h4 class="text-center" style="margin-top: 10px">Esya Saker</h4>
+			</div>
+		</div>
+		<div class="col-md-2 col-sm-6 mx-auto">
+			<div class="team-member">
+				<img class="rounded-circle img-fluid"
+						src="{% static 'about/fatma.png' %}" />
+				<h4 class="text-center" style="margin-top: 10px">Fatma Ezzahra</h4>
+			</div>
+		</div>
+	</div>
+	<div class="team-description">
+		<p class="text-justify">
+			The Competency-based Curriculum Platform is an innovative educational
+			approach designed to bridge the gap between traditional education models
+			and the ever-changing demands of the job market. Our platform automates
+			the process of cleaning data, extracting competencies, and updating IT
+			school curriculums to ensure they accurately reflect the latest skills and
+			competencies required in the industry. The CBC Platform is an innovative
+			solution for modernizing the traditional educational model and empowering
+			students to achieve their career goals. and the ever-changing demands of
+			the job market.
+		</p>
+	</div>
+	<div class="py-5"></div>
+</div>
+{% endblock %} {% block head %}
+<style>
+	.team-description {
+		font-size: 18px;
+		margin-top: 50px;
+		margin-bottom: 20px;
+		padding: 20px;
+	}
+	.abt {
+		position: relative;
+		top: 120px;
+	}
+	.img-container {
+    width: 160px; /* Adjust the width and height as needed */
+    height: 160px;
+    overflow: hidden;
+    border-radius: 50%;
+	}
+
+	.custom-img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+</style>
+{% endblock %}

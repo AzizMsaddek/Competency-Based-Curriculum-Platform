@@ -1,0 +1,91 @@
+{% extends 'base.html' %} {% load static %}
+{% block content %}
+{% if common is not None and missing is not None %}
+	<!-- Display the content of the common and missing files -->
+	<div style="max-height: 500px; margin: 20px; text-align: center;">
+		<div class="row">
+			<div class="col-md-12">
+				<h2>Common Skills</h2>
+				<br/>
+				<table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Web Development</th>
+                            <th>Big Data</th>
+                            <th>Machine Learning</th>
+                            <th>Deep Learning</th>
+                            <th>Security</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for _, row in common.iterrows %}
+							<tr>
+								{% for value in row.values %}
+									{% if not value == 'nan' %}
+										<td>{{ value }}</td>
+									{% endif %}
+								{% endfor %}
+							</tr>
+						{% endfor %}
+                    </tbody>
+                </table>
+				<br/>
+				<br/>
+				<img src="{% static 'common_plot.png' %}" alt="Common Skills Analysis">
+
+			</div>
+			
+
+			<div class="col-md-12">
+				<br/>
+				<br/>
+				<br/>
+				<br/>
+				<h2 style="text-align: center;">Missing Skills</h2>
+				<br/>
+				<table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Web Development</th>
+                            <th>Big Data</th>
+                            <th>Machine Learning</th>
+                            <th>Deep Learning</th>
+                            <th>Security</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for _, row in missing.iterrows %}
+							<tr>
+								{% for value in row.values %}
+									{% if not value == 'nan' %}
+										<td>{{ value }}</td>
+									{% endif %}
+								{% endfor %}
+							</tr>
+						{% endfor %}
+                    </tbody>
+                </table>
+			</div>
+		</div>
+		<!-- Display the charts for the common and missing files -->
+
+		<br/>
+		<br/>
+	  	<img src="{% static 'missing_plot.png' %}" alt="Missing Skills Analysis">
+		<br/>
+		<br/>
+		<br/>
+	</div>
+
+{% else %}
+	<p style="font-size: 20px">
+		You need to upload a file first!<br />Redirecting to the home page...
+	</p>
+	<!-- Redirect to the upload page -->
+	<script>
+		setTimeout(function () {
+			window.location.href = "{% url 'fileup' %}";
+		}, 5000);
+	</script>
+{% endif %}
+{%endblock%}

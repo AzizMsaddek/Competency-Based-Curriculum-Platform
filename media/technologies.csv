@@ -1,0 +1,183 @@
+Web Development,Big Data,Machine Learning,Deep Learning,Security
+HTML,Python,Scikit-learn,Python,Snort
+CSS,Pyspark,TensorFlow,TensorFlow,Bro
+JavaScript,PySpark MLlib,Keras,Keras,Wireshark
+TypeScript,Apache Spark MLlib,PyTorch,PyTorch,Nmap
+React,Hadoop,Caffe,Caffe,Nessus
+Angular,MapReduce,Theano,Theano,Metasploit
+Vue.js,Apache Spark,Microsoft Cognitive Toolkit (CNTK),Microsoft Cognitive Toolkit (CNTK),Burp Suite
+Bootstrap,Apache Flink,Apache Mahout,Apache MXNet,OWASP ZAP
+Materialize,Apache Kafka,H2O.ai,Chainer,Hashcat
+Foundation,Apache Storm,Amazon Machine Learning,Torch,John the Ripper
+Sass,Apache Beam,Google Cloud ML Engine,Deeplearning4j,GnuPG
+Less,Apache Samza,IBM Watson Machine Learning,PaddlePaddle,OpenSSL
+Webpack,Apache NiFi,SAS Analytics,H2O.ai,TrueCrypt
+Babel,HBase,RapidMiner,Amazon Machine Learning,VeraCrypt
+jQuery,Cassandra,KNIME,Google Cloud Machine Learning Engine,OpenVAS
+Knockout,MongoDB,DataRobot,IBM Watson,OSSEC
+Ember,Couchbase,Weka,Dopamine,Security Onion
+Backbone,Redis,Orange,Horizon,SELinux
+Mustache,Elasticsearch,MATLAB,NVIDIA Deep Learning SDK,AppArmor
+Handlebars,Solr,Octave,Amazon SageMaker,Fail2ban
+Node.js,Pig,OpenCV,Google Cloud Machine Learning Engine,ModSecurity
+PHP,Hive,NLTK,Alteryx,WAF
+Python,Impala,NLTK (Natural Language Toolkit),Tableau,IDS
+Ruby,Presto,Gensim,Power BI,IPS
+Java,Drill,Spacy,Google AutoML,VPN
+ASP.NET,Dremio,Stanford NLP,IBM Watson Studio,SSL/TLS
+Flask,Zeppelin,FastText,Dataiku,PKI
+Express,Jupyter,AllenNLP,BigDL,2FA
+Laravel,Tableau,MXNet,XGBoost,SSO
+Ruby on Rails,Power BI,Deeplearning4j,LightGBM,OAuth
+Spring,Splunk,Microsoft Azure Machine Learning,CatBoost,SAML
+Spring BootHibernate,Logstash,Databricks,Featuretools,Kerberos
+CodeIgniter,Kibana,PyCaret,Pyspark,LDAP
+Symfony,Flume,AutoKeras,TensorFlow,RADIUS
+CakePHP,Sqoop,Ludwig,Keras,SSH
+Yii,Oozie,Turi Create,PyTorch,SFTP
+MySQL,Airflow,MLflow,TensorFlow Lite,SCP
+PostgreSQL,Mahout,Kubeflow,Microsoft Cognitive Toolkit,IPsec
+MongoDB,Bigtable,Pachyderm,MXNet,DNSSEC
+Oracle,Amazon EMR,Apache MXNet,Caffe,DDoS
+SQL Server,Google Cloud Dataproc,ML.NET,Torch,SIEM
+Redis,Microsoft Azure HDInsight,Accord.NET,Theano,UEBA
+Cassandra,Cloudera,PyBrain,MLPACK,Threat Intel
+Couchbase,Hortonworks,Vowpal Wabbit,CNTK,SOAR
+Firebase,MapR,TPOT (Tree-based Pipeline Optimization Tool),ONNX,Container Sec
+Realm,Data warehousing,Optunity,PyTorch Lightning,Cloud Sec
+Apache,Data mining,Hyperopt,MLIR,Mobile Sec
+Nginx,Predictive Analytics,GPyOpt,Hugging Face Transformers,IoT Sec
+IIS,Stream processing,SigOpt,Horovod,AV
+Lighttpd,Data lakes,Hugging Face Transformers,XLA,FW
+RESTful APIs,"ETL (Extract, Transform, Load)",Fairseq,TensorFlow Quantum,IDS
+GraphQL APIs,NoSQL,Ray RLlib,OpenPose,IPS
+SOAP APIs,SQL,OpenAI Gym,Google Cloud Vision API,VPN
+JSON APIs,Data Visualization,RoboGym,Microsoft Azure Computer Vision,IAM
+XML APIs,Data Governance,Unity ML-Agents,IBM Watson Visual Recognition,SIEM
+AWS (Amazon Web Services),Data Security,DeepMind Lab,DALL-E,DLP
+GCP (Google Cloud Platform),Data privacy,PyBullet,Midjourney,WAF
+Azure,Apache Hadoop,Keras RL,StyleGAN,EDR
+Heroku,Apache Cassandra,Stable Baselines,GANs,SOAR
+DigitalOcean,Apache Spark,RLkit,VAEs,NTA
+Docker,Apache Storm,Dopamine,Generative Adversarial Networks (GANs),Vuln Scanners
+Kubernetes,Apache Kafka,Horizon,CNNs,Pen Testing Tools
+Jenkins,Apache Flink,Python,RNNs,Sec Analytics Tools
+Git,Hadoop MapReduce,R,LSTM,TIP
+Ansible,Hadoop YARN,scikit-learn,Autoencoders,Sec Assessment Tools
+Puppet,Apache HBase,NVIDIA Deep Learning SDK,Transfer Learning,Encryption SW
+Chef,MongoDB,Amazon SageMaker,Data Augmentation,MFA
+Terraform,Cassandra,Google Cloud Machine Learning Engine,Batch Normalization,Password Mgrs
+WebRTC,Hadoop Distributed File System (HDFS),Alteryx,Early Stopping,Sec Awareness Training Tools
+WebSockets,Elasticsearch,Tableau,Regularization,Backup and DR Solns
+WebAssembly,NoSQL,Power BI,Dropout,SSL
+PWA (Progressive Web Apps),Spark SQL,Google AutoML,Adam Optimizer,TLS
+AMP (Accelerated Mobile Pages),Hive,IBM Watson Studio,RMSProp Optimizer,HTTPS
+WebVR,Jupyter Notebook,Dataiku,Cross-Entropy Loss,Firewall
+WebGL,BigQuery,BigDL,Softmax Activation,IDS
+Web Animations API,Spark Streaming,XGBoost,LeCun-Yann LeCun,IPS
+Web Speech API,Apache Storm,LightGBM,Hinton-Salakhutdinov,VPN
+Web Storage API,Apache Mahout,CatBoost,Deng-Deng Li,PAM
+IndexedDB,Apache NiFi,Featuretools,Krizhevsky-Sutskever,MFA
+Web Components,Apache Crunch,C++,ImageNet,SIEM
+HTML,Apache Zookeeper,TensorFlow,Kaggle,CA
+CSS,Apache Hama,Keras,Keras-TensorFlow API,PKI
+JavaScript,Apache Avro,PyTorch,NVIDIA Deep Learning SDK,AV
+PHP,Apache Zipkin,Scikit-Learn,AWS Deep Learning AMI,IDS/IPS
+MySQL,Apache Flume,Theano,Microsoft Azure Deep Learning SDK,Anti-Phishing
+React,Apache Pinot,MXNet,Google Cloud Deep Learning AI,Encryption
+Vue.js,,Caffe,NVIDIA GPUs,Endpoint Protection
+Node.js,,TensorFlow Lite,TensorFlow GPUs,DLP
+Git,,Torch,PyTorch GPUs,SAP
+Docker,,CNTK,ONNX Runtime,Two-factor authentication
+Angular,,Microsoft Cognitive Toolkit,Microsoft Cognitive Toolkit GPUs,CIA Triad
+Vue.js 2,,Hugging Face Transformers,Horovod GPUs,SOC
+React Native,,Apache Mahout,Apache Arrow,Identity and Access Management
+Ruby on Rails,,Weka,MLIR,Data Loss Prevention
+Express.js,,Scikit-learn,XLA,Data Encryption
+Django,,ML.NET,,Penetration Testing
+Flask,,MLflow,,Vulnerability Assessment
+Node.js Express,,Docker,,Identity and Access Management
+ASP.NET,,Jupyter Notebook,,Compliance Monitoring
+Laravel,,Apache OpenML,,Cloud Security
+CodeIgniter,,AWS SageMaker,,Network Security
+Express.js 4,,Microsoft Azure Machine Learning Studio,,Data Security
+Laravel 5,,Google Cloud AI Platform,,Incident Response
+Laravel Mix,,TensorFlow Serving,,Mobile Device Management
+Nuxt.js,,Deep Learning Toolkit,,Password Management
+Ruby on Rails 6,,H2O.ai,,Security Information and Event Management
+Ruby on Rails Active Record,,BigML,,Threat Intelligence
+Ruby on Rails Association,,RapidMiner,,Anti-Malware
+Ruby on Rails Routing,,DataRobot,,Access Control
+Ruby on Rails Controllers,,IBM Watson Machine Learning,,Physical Security
+Ruby on Rails Models,,KNIME,,Disaster Recovery
+React Hooks,,H2O.ai,,Data Backup
+React Context,,Dataiku,,Encryption at Rest
+React State,,RapidMiner,,SSL/TLS Certificate Management
+React Props,,Microsoft Azure Machine Learning,,Cloud Security Posture Management
+Redux,,Google Cloud AI Platform,,Authentication and Authorization
+Redux Saga,,Amazon SageMaker,,Secure Coding Practices
+GraphQL,,Torch,,Social Engineering
+Vuex,,Microsoft Cognitive Toolkit,,Network Segmentation
+Vuex Store,,Apache Mahout,,WAF
+Vuex State Management,,Weka,,Web Application Firewall
+Vue Router,,Scikit-learn,,Security Information and Event Management
+Vuex getters,,,,Network Security Monitoring
+Vuex actions,,,,Identity and Access Management
+Vuex mutations,,,,Data Encryption at Rest
+Firebase,,,,Security Compliance
+Firebase Authentication,,,,Data Classification
+Firebase Storage,,,,Penetration Testing
+Firebase Cloud Messaging,,,,Security Operations Center (SOC)
+Firebase Firestore,,,,Security Orchestration Automation and Response (SOAR)
+user-avatar,,,,Security Information and Event Management (SIEM)
+Vue.js 3,,,,Endpoint Detection and Response (EDR)
+Svelte,,,,SIEM
+Angular Material,,,,Security Configuration Management
+Bootstrap,,,,Security Awareness Training
+Foundation,,,,Data Loss Prevention (DLP)
+Bulma,,,,Security Monitoring
+Glide,,,,Security Operations Center (SOC)
+Materialize,,,,Security Orchestration Automation and Response (SOAR)
+Semantic UI,,,,Identity and Access Management (IAM)
+Vuex 3,,,,Security Incident Response
+React Router 6,,,,Security Information and Event Management (SIEM)
+Nuxt.js 2,,,,Cloud Security
+Vuex 2,,,,Network Security
+Next.js,,,,Data Security
+Vite,,,,Web Application Firewall (WAF)
+ESLint,,,,Security Information and Event Management (SIEM)
+Prettier,,,,Security Compliance
+Yarn Workspaces,,,,Endpoint Security
+Webpack 5,,,,Security Architecture
+Babel,,,,Security Risk Management
+PostCSS,,,,Security Policy Development
+Sass,,,,Security Threat Intelligence
+Less,,,,Security Vulnerability Management
+Autoptimize,,,,Security Assessment
+Gulp,,,,Security Audit
+Grunt,,,,Security Compliance
+Webpack-cli,,,,Security Consulting
+Ant Design,,,,Security Design
+Tailwind CSS,,,,Security Incident Response
+Foundation 6,,,,Security Orchestration Automation and Response (SOAR)
+Bootstrap 5,,,,Security Risk Management
+Bulma 2,,,,Security Strategy
+Glide 4,,,,Security Threat Intelligence
+Materialize 2,,,,Security Training
+Semantic UI 2,,,,Security Validation
+Ant Design Pro,,,,Vulnerability Management
+Chakra UI,,,,Identity and Access Management (IAM)
+Nuxt.js 3,,,,
+Vite 3,,,,
+Vue 3,,,,
+Vue Router 6,,,,
+Vuex 3,,,,
+Storybook,,,,
+Atelectasis,,,,
+Docusaurus,,,,
+Next.js 13,,,,
+Vite 3,,,,
+TypeScript,,,,
+Flow,,,,
+Styled Components,,,,
+Shadow DOM,,,,
